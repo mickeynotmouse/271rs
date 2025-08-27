@@ -1,1 +1,3 @@
-this is a test
+fn main () {
+	println!("Hello World!");
+}
